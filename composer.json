@@ -1,0 +1,16 @@
+{
+    "name": "step3/wp-spektrix-mytheme",
+    "autoload": {
+        "psr-4": {
+            "Step3\\WpSpektrixMytheme\\": "src/",
+            "Step3\\WpSpektrix\\": "../wp-spektrix/src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SamuelAshbrook",
+            "email": "ashbrook444@gmail.com"
+        }
+    ],
+    "require": {}
+}
